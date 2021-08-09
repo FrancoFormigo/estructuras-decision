@@ -1,0 +1,41 @@
+PRACTICA
+Tarea – Nro 3. (Realizar los ejercicios con PSeInt)
+1) Elaborar un algoritmo que permita leer 4 números y determinar si la suma
+de los 2 primeros es igual a la suma de los 2 últimos ingresados.
+• Si leo 1, 4, 3 y 2 entonces informo “IGUALES”: (4+1) es = a (3+ 2)
+• Si leo 1, 4, 2 y 12 entonces informo “No IGUALES”: (4+1) no es = (2+12)
+2) Elaborar un algoritmo que permita leer 3 números y determinar si uno es la
+suma de los otros dos.
+Ejemplo:
+Si leo 3, 5 y 8 entonces informo que 8 = 5 + 3
+Si leo 1, 4 y 12 entonces no informo ninguno.
+3) Elaborar un algoritmo que permita leer 1 número de mes e informe el
+siguiente mensaje:
+“PRIMER TRIMESTRE” el numero está comprendido entre 1 y 3
+“SEGUNDO TRIMESTRE” el numero está comprendido entre 4 y 5
+“TERCER TRIMESTRE” el numero está comprendido entre 6 y 9
+“CUARTO TRIMESTRE” el numero está comprendido entre 10 y 12
+4) Construir un algoritmo que lea 2 datos por teclado: la categoría y el sueldo
+de un trabajador.
+Luego debe calcular e informar el aumento correspondiente teniendo en cuenta
+la siguiente tabla de Incrementos:
+Categoría Aumento
+1 15%
+2 10%
+3 8%
+4 7%
+Ejemplo: si ingreso:
+Sueldo : 150
+Categoría : 2
+Entonces debe recibir un aumento del 10% de aumento:
+aumento $15
+5) Realizar un programa que permita ingresar una hora e indique, con un
+mensaje por pantalla, si es de MAÑANA, de TARDE, o de NOCHE, teniendo en
+cuenta que:
+de 0 a 12 Hs MAÑANA
+de 13 a 19 Hs TARDE
+de 20 a 23 Hs NOCHE
+Si coloca una hora no existente, emitir el mensaje "HORA EQUIVOCADA"
+Ejemplo: si ingreso 15 debe informar “TARDE”
+si ingreso 22 debe informar “NOCHE”
+si ingreso 33 debe informar "HORA EQUIVOCADA"
